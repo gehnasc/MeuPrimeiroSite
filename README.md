@@ -1,1 +1,2 @@
-acesse o meu primeiro site https://gehnasc.github.io/rihanna/
+acesse o meu primeiro site 
+https://github.com/gehnasc/MeuPrimeiroSite.git
